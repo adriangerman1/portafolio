@@ -20,7 +20,7 @@ const Footer = ()  => {
 
                 <div className="boxFooter2 col-md-6">
 
-                    <form Name="repositorio" netlifly>
+                    <form className="repositorio" data-netlify="true">
                         <div>
                             <label htmlFor="name" >Nombre</label>
                             <input className="m-2" type="text" name="name" id="name" placeholder="Ingrese su nombre" />
