@@ -11,3 +11,120 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.boxHome{
+
+  width: 100%;
+  height: 800px;
+  background-image: url("blog-educacionit-17.jpg");
+  background-position: center;
+  background-size:cover;
+
+}
+
+.textName{
+
+  color: rgb(255, 255, 255);
+  text-align: justify;
+  padding-left: 2rem;
+  padding-top: 12%;
+  font-size: 5rem;
+  font-family:sans-serif
+}
+
+.textDescriptions{
+  color: rgb(255, 255, 255);
+  text-align: justify;
+  padding-left: 4rem;
+  font-family:sans-serif
+}
+
+.boxDescriptionImg {
+
+  background-image: url("imagen2.jpg");
+  background-position: center;
+  background-size:cover;
+
+}
+
+.boxProject{
+
+  width: 100%;
+  height: 800px;
+  background-color: black;
+  padding-top: 20rem;
+}
+
+.boxProject1{
+
+  width: 100%;
+  height: 800px;
+  background-color: black;
+  padding-top: 5rem;
+}
+
+.projectText{
+  color: rgb(255, 255, 255);
+}
+
+.footerText{
+  padding-top: 2rem;
+  font-family:sans-serif;
+  text-align:center;
+  font-size: 3rem;
+
+}
+
+.boxFooter1{
+  
+  background-color: rgb(255, 255, 255);
+  width: 100%;
+  height: 200px;
+  padding-top: 4rem;
+
+}
+
+.boxFooter2{
+  background-color: rgb(255, 255, 255);
+  width: 100%;
+  height: 200px;
+}
+
+.iconLinkedin{
+  padding-top: 1rem;
+  width: 50px;
+  -webkit-transition: 1s linear;
+  transition: 1s linear;
+}
+
+.iconLinkedin:hover{
+  -webkit-transform: scale(1.5);
+  transform: scale(1.5);
+}
+
+.textLinkedin1{
+  color: black;
+  padding-top: 1rem;
+}
+
+.textLinkedin{
+  color: black;
+  padding-top: 1rem;
+  -webkit-transition: 1s linear;
+  transition: 1s linear;
+}
+
+.textLinkedin:hover{
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
+.textLink{
+  text-decoration: none ;
+}
+
+.carousel-item img{
+  
+  height: 600px;
+  border-radius: 15rem;
+}
