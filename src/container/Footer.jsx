@@ -20,7 +20,7 @@ const Footer = ()  => {
 
                 <div className="boxFooter2 col-md-6">
 
-                    {/* <form className="repositorio" action="POST" data-netlify="true">
+                    <form className="repositorio" action="POST" data-netlify="true">
                         <div>
                             <label htmlFor="name" >Nombre</label>
                             <input className="m-2" type="text" name="name" id="name" placeholder="Ingrese su nombre" />
@@ -38,17 +38,6 @@ const Footer = ()  => {
 
                         <button className="btn btn-success m-2">Enviar</button>
 
-                    </form> */}
-                    <form name="contact" netlify>
-                        <p>
-                            <label>Name <input type="text" name="name" /></label>
-                        </p>
-                        <p>
-                            <label>Email <input type="email" name="email" /></label>
-                        </p>
-                        <p>
-                            <button type="submit">Send</button>
-                        </p>
                     </form>
 
                 </div>
