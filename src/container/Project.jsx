@@ -1,5 +1,5 @@
 import foto1 from '../imagen2.jpg'
-import foto2 from '../blog-educacionit-17.jpg'
+import foto2 from '../fotoCiudad.jpeg'
 import foto3 from '../pag1.png'
 import foto4 from '../king.png'
 
@@ -30,13 +30,13 @@ const Project = ()  => {
 
                         <div className="carousel-inner">
                             <div className="carousel-item active">
-                                <a href="https://kinge.netlify.app/"><img src={foto4} className="d-block w-100" alt="..."/></a>
+                                <a href="https://kinge.netlify.app/"><img src={foto4} className="d-block w-100" alt="sitioWeb"/></a>
                             </div>
                             <div className="carousel-item">
-                                <a href=""><img src={foto2} className="d-block w-100" alt="..."/></a>
+                                <a href="https://reporteclimatico.netlify.app/"><img src={foto2} className="d-block w-100" alt="sitioWeb"/></a>
                             </div>
                             <div className="carousel-item">  
-                                <a href="https://tiendacelulares-33b0d2.netlify.app/"><img src={foto3} className="d-block w-100" alt="..."/></a>  
+                                <a href="https://tiendacelulares-33b0d2.netlify.app/"><img src={foto3} className="d-block w-100" alt="sitioWeb"/></a>  
                             </div>
                         </div>
 
